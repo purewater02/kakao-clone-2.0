@@ -16,6 +16,7 @@
 .settings__setting .settings__title {
   font-size: 22px;
   font-weight: 300;
+  cursor: pointer;
 }
 
 .settings .settings__setting {
